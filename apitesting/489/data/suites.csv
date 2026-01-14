@@ -1,0 +1,7 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2240","newUserGetEmptyEmailsListTesting","","Wed Jan 14 03:07:07 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","newUserGetEmptyEmailsListTesting"
+"","2","shouldBePossibleCreateNewUserTesting","","Wed Jan 14 03:07:10 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","shouldBePossibleCreateNewUserTesting"
+"","3","userGetsEmailByIdTesting","","Wed Jan 14 03:07:10 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","userGetsEmailByIdTesting"
+"","4","userGetsNotEmptyEmailsTesting","","Wed Jan 14 03:07:10 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","userGetsNotEmptyEmailsTesting"
+"","3","shouldNotBePossibleCreateExistingUserTesting","","Wed Jan 14 03:07:10 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","shouldNotBePossibleCreateExistingUserTesting"
+"","4","userDeletesEmailByIdTesting","","Wed Jan 14 03:07:10 UTC 2026","broken","Wed Jan 14 03:07:10 UTC 2026","","org.example.tests.ApiTesting","org.example.tests.ApiTesting","userDeletesEmailByIdTesting"
