@@ -1,4 +1,4 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","17292","languageCanBeChanged","","Sat May 23 04:47:43 UTC 2026","failed","Sat May 23 04:48:01 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","languageCanBeChanged"
-"","5196","navigationThroughTopMenu","","Sat May 23 04:48:01 UTC 2026","failed","Sat May 23 04:48:06 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","navigationThroughTopMenu"
-"","5422","mainPageShouldBeOpened","","Sat May 23 04:48:06 UTC 2026","failed","Sat May 23 04:48:11 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","mainPageShouldBeOpened"
+"","5226","navigationThroughTopMenu","","Sun May 24 05:07:45 UTC 2026","failed","Sun May 24 05:07:50 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","navigationThroughTopMenu"
+"","19729","languageCanBeChanged","","Sun May 24 05:07:25 UTC 2026","failed","Sun May 24 05:07:45 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","languageCanBeChanged"
+"","4928","mainPageShouldBeOpened","","Sun May 24 05:07:50 UTC 2026","failed","Sun May 24 05:07:55 UTC 2026","","org.example.tests.UiTesting","org.example.tests.UiTesting","mainPageShouldBeOpened"
